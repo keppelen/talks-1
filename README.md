@@ -34,11 +34,11 @@
 * FrontinRio - Rio de Janeiro, RJ, Brazil
 
 ### HTML 5 e CSS 3
-* slides: [fellipe.com/slides/html5](fellipe.com/slides/html5)
+* slides: [http://fellipe.com/slides/html5](http://fellipe.com/slides/html5)
 * II EATI - Frederico Westphalen, RS, Brazil
 
 ### jQuery.fn
-*  slides: [fellipe.com/slides/jqueryfn](fellipe.com/slides/jqueryfn)
+*  slides: [http://fellipe.com/slides/jqueryfn](http://fellipe.com/slides/jqueryfn)
 * Rio.js 
 * Sampajs
 * Workshop interno na Globo.com, Rio de Janeiro, Brasil
