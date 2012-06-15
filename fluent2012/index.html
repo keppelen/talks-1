@@ -16,15 +16,15 @@
     <meta charset='utf-8'>
     <script src='slides.js'></script>
     <meta charset="utf-8">
-    <meta name="author" content="Davidson Fellipe" />
-    <meta name="description" content="Fluent Conference - Highlights" />
+    <meta name="description" content="Fluent Conference - Highlights">
 
-    <meta property="og:title" content="Palestra sobre a Fluent Conference - Highlights" />
+    <meta property="og:title" content="Palestra sobre a Fluent Conference - Highlights">
     <meta property="og:type" content="article"/>
-    <meta property="og:description" content="Evento sobre javascript que aconteceu em San Francisco entre 29-31 de Maio de 2012" />
-    <meta property="og:url" content=""/>
-    <meta property="og:image" content="" />
-    <meta property="og:site_name" content=""/>
+    <meta property="og:description" content="Destacando algumas palestras, das que aconteceram no Fluent, evento sobre javascript que aconteceu em San Francisco entre 29-31 de Maio de 2012">
+    <meta property="og:url" content="http://fellipe.com/slides/fluent2012/pt/">
+    <meta property="og:image" content="http://fellipe.com/slides/fluent2012/pt/i/fb.jpg">
+    <meta property="og:site_name" content="fellipe.com">
+    <meta property="fb:app_id" content="337306756343400">
 
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
   </head>
@@ -40,16 +40,11 @@
           <br>
           por Davidson Fellipe e Guilherme Souza
           <br>
+          <a href="http://fellipe.com/slides/fluent2012/pt">http://fellipe.com/slides/fluent2012/pt</a>
         </h3>
         <div class='source white'>
           Jun 12, 2012
         </div>
-        <div class="fb-like"  data-href="http://fellipe.com/slides/fluent2012/pt/"
-                          data-send="false"
-                          data-layout="button_count"
-                          data-width="450"
-                          data-show-faces="true">
-          </div>
       </article>
 
       <!-- about talk -->
@@ -537,16 +532,35 @@
 
     </section>
 
+    <div class="social-wgt">
+      
+      <div  id="fb-like"
+            class="fb-like"
+            data-href="http://fellipe.com/slides/fluent2012/pt"
+            data-send="false"
+            data-layout="button_count"
+            data-width="100"
+            data-show-faces="false"></div>
+
+      <a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt" data-hashtags="fluentconf">Tweetar</a>
+    </div>
+
     <div id="fb-root"></div>
 
-    <script>
-
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-      var pageTracker = _gat._getTracker("UA-2123552-1");
-      pageTracker._trackPageview();
-
+      <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-2123552-1']);
+          _gaq.push(['_trackPageview']);
+      
+          (function() {
+        
+            var ga = document.createElement('script');
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      
+            ga.setAttribute('async', 'true');
+            document.documentElement.firstChild.appendChild(ga);
+      
+          })();
 
       (function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
@@ -555,6 +569,8 @@
         js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=236409829747888";
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
+
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
     </script>
   </body>
 </html>
