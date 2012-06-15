@@ -16,7 +16,7 @@
 
 
 
-### Fluent Conference - Highlights ([http://fellipe.com/slides/fluent2012](http://fellipe.com/slides/fluent2012))
+### Fluent Conference - Highlights ([http://fellipe.com/slides/fluent2012/pt](http://fellipe.com/slides/fluent2012/pt))
 * Globo.com Weekly Talk - Rio de Janeiro, RJ, Brazil + [@guilhermef](https://github.com/guilhermef)
 
 ### Javascript Cross-browser ([http://www.slideshare.net/davidsonfellipe/javascript-cross-browser](http://www.slideshare.net/davidsonfellipe/javascript-cross-browser))
