@@ -23,7 +23,6 @@
 * PernambucoJS - Recife, PE, Brazil
 
 ### Performance em Jquery Apps ([http://www.slideshare.net/davidsonfellipe/jqueryperf](http://www.slideshare.net/davidsonfellipe/jqueryperf))
-* PernambucoJS - Recife, PE, Brazil
 * BeagaJS - Belo Horizonte, MG, Brazil
 
 ## 2011
