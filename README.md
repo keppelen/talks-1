@@ -20,36 +20,25 @@
 ## 2012
 
 ### Javascript Cross-browser
-* slides: []()
+* slides: [http://www.slideshare.net/davidsonfellipe/jqueryperf](http://www.slideshare.net/davidsonfellipe/jqueryperf)
 * PernambucoJS - Recife, PE, Brazil
 
-### BeagaJS
-<!--* Presentation title: Javascript Cross-browser
-* Presentation slides: []()-->
-* When: /12
-* Where: Belo Horizonte, MG, Brazil
-* Website: []()
+### Performance em Jquery Apps
+* slides: [http://www.slideshare.net/davidsonfellipe/jqueryperf](http://www.slideshare.net/davidsonfellipe/jqueryperf)
+* PernambucoJS - Recife, PE, Brazil
+* BeagaJS - Belo Horizonte, MG, Brazil
 
 ## 2011
 
-### FrontinRio
-<!--* Presentation title: Canvas vs. SVG
-* Presentation slides: []()-->
-* When: 06/18/11
-* Where: Rio de Janeiro, RJ, Brazil
-* Website: []()
+### Canvas vs. SVG
+* FrontinRio - Rio de Janeiro, RJ, Brazil
 
-### II EATI
-<!--* Presentation title: HTML 5 e CSS 3
-* Presentation slides: [fellipe.com/slides/html5](fellipe.com/slides/html5)-->
-* When: /12
-* Where: Frederico Westphalen, RS, Brazil
-* Website: []()
+### HTML 5 e CSS 3
+* slides: [fellipe.com/slides/html5](fellipe.com/slides/html5)
+* II EATI - Frederico Westphalen, RS, Brazil
 
-### Rio.js
-<!--* Presentation title: Jquery.fn
-* Presentation slides: [fellipe.com/slides/jqueryfn](fellipe.com/slides/jqueryfn)-->
-
-* When: /12
-* Where: , , Brazil
-* Website: []()
+### jQuery.fn
+*  slides: [fellipe.com/slides/jqueryfn](fellipe.com/slides/jqueryfn)
+* Rio.js 
+* Sampajs
+* Workshop interno na Globo.com, Rio de Janeiro, Brasil
