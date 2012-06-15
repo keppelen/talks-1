@@ -37,8 +37,10 @@
 * slides: [http://fellipe.com/slides/html5](http://fellipe.com/slides/html5)
 * II EATI - Frederico Westphalen, RS, Brazil
 
-### jQuery.fn
-*  slides: [http://fellipe.com/slides/jqueryfn](http://fellipe.com/slides/jqueryfn)
+### jQuery.fn [http://fellipe.com/slides/jqueryfn](http://fellipe.com/slides/jqueryfn)
 * Rio.js - Rio de Janeiro, RJ, Brazil
 * Sampajs - São Paulo, SP, Brazil
 * Workshop interno na Globo.com - Rio de Janeiro, RJ, Brazil
+
+### Canvas Element ([http://www.slideshare.net/davidsonfellipe/canvas-element](http://www.slideshare.net/davidsonfellipe/canvas-element))
+* BrazilJS - Fortaleza, CE, Brazil
