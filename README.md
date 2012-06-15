@@ -39,6 +39,6 @@
 
 ### jQuery.fn
 *  slides: [http://fellipe.com/slides/jqueryfn](http://fellipe.com/slides/jqueryfn)
-* Rio.js 
-* Sampajs
-* Workshop interno na Globo.com, Rio de Janeiro, Brasil
+* Rio.js - Rio de Janeiro, RJ, Brazil
+* Sampajs - São Paulo, SP, Brazil
+* Workshop interno na Globo.com - Rio de Janeiro, RJ, Brazil
