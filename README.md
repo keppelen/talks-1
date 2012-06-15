@@ -33,11 +33,10 @@
 ### Canvas vs. SVG
 * FrontinRio - Rio de Janeiro, RJ, Brazil
 
-### HTML 5 e CSS 3
-* slides: [http://fellipe.com/slides/html5](http://fellipe.com/slides/html5)
+### HTML 5 e CSS 3 ([http://fellipe.com/slides/html5](http://fellipe.com/slides/html5))
 * II EATI - Frederico Westphalen, RS, Brazil
 
-### jQuery.fn [http://fellipe.com/slides/jqueryfn](http://fellipe.com/slides/jqueryfn)
+### jQuery.fn ([http://fellipe.com/slides/jqueryfn](http://fellipe.com/slides/jqueryfn))
 * Rio.js - Rio de Janeiro, RJ, Brazil
 * Sampajs - São Paulo, SP, Brazil
 * Workshop interno na Globo.com - Rio de Janeiro, RJ, Brazil
