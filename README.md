@@ -14,7 +14,7 @@
 
 ## 2012
 
-### Javascript Cross-browser ([http://www.slideshare.net/davidsonfellipe/jqueryperf](http://www.slideshare.net/davidsonfellipe/jqueryperf))
+### Javascript Cross-browser ([http://www.slideshare.net/davidsonfellipe/javascript-cross-browser](http://www.slideshare.net/davidsonfellipe/javascript-cross-browser))
 * PernambucoJS - Recife, PE, Brazil
 
 ### Performance em Jquery Apps ([http://www.slideshare.net/davidsonfellipe/jqueryperf](http://www.slideshare.net/davidsonfellipe/jqueryperf))
